@@ -1,7 +1,7 @@
 {  
    "success":true,
    "auth":{  
-      "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXRsYXMtYXBpLnRlc3QvYXBpL2xvZ2luIiwiaWF0IjoxNTI1NzA1NzQ0LCJleHAiOjE1MjU3MDkzNDQsIm5iZiI6MTUyNTcwNTc0NCwianRpIjoicVJOWUo2dUo4djBNVnpBbCIsInN1YiI6MSwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSIsInRlbmFudCI6eyJ0ZW5hbnRfaWQiOjEsInRlbmFudF91aWQiOiJmNzg1MTUyYS1lODEwLTRkOTUtOWQ5Mi1hMzg4MWUyOWZhYWQiLCJjb21wYW55X25hbWUiOiJOb3ZhbnRpIFRlY25vbG9naWEiLCJzaG9ydF9jb21wYW55X25hbWUiOiJOb3ZhbnRpIFRlY25vbG9naWEiLCJkYXRhYmFzZV9wcmVmaXgiOiJhdGwiLCJjcmVhdGVkX2F0IjoiMjAxOC0wMy0xNiAwODo1Mjo0OCIsInVwZGF0ZWRfYXQiOiIyMDE4LTAzLTE2IDA4OjUyOjQ4In19.D7oZOK8NTfkQsoXxiTNsiNBecJimoj05ulBnYu-V8Oo",
+      "token":"123456",
       "token_type":"bearer",
       "expires_in":60,
       "user":{  
@@ -12,8 +12,7 @@
          "created_at":"2018-03-16 08:52:47",
          "updated_at":"2018-03-16 08:52:47"
       }      
-   },
-  
+   },  
    "posts":[  
       {  
          "id":1,
